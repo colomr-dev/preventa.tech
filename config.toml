@@ -71,8 +71,5 @@ style = "github-dark"
   name = "Docs"
   weight = 2
   url = "https://docs.preventa.tech"
-[[menu.main]]
-  name = "Diario"
-  weight = 3 
-  url = "posts/"
+
 
