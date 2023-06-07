@@ -3,8 +3,10 @@ title = "Preventa Técnica | Google Cloud Platform | GCP"
 theme = "hugo-coder"
 languagecode = "es"
 defaultcontentlanguage = "es"
-
 paginate = 20
+
+# Google Analytics tracking ID
+googleAnalytics = 'G-Y0X8CR726Y'
 
 
 [markup.highlight]
