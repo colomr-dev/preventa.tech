@@ -3486,6 +3486,9 @@ figure {
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
+  .navigation .navbar-brand img {
+    height: 40px;
+    margin-right: 10px; }
   .navigation .navigation-list {
     float: right;
     list-style: none;
