@@ -61,6 +61,11 @@ style = "github-dark"
   icon = "fa fa-telegram fa-2x"
   weight = 4
   url = "https://t.me/fcolomer"
+[[params.social]]
+  name = "Google Cloud"
+  icon = "fa fa-google fa-2x"
+  weight = 4
+  url = "https://www.cloudskillsboost.google/public_profiles/f42b5706-3620-40cd-86b0-8772d949879d"
 
 
 # Menu links
