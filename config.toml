@@ -52,20 +52,15 @@ style = "github-dark"
   weight = 2
   url = "https://www.linkedin.com/in/fcolomer/"
 [[params.social]]
-  name = "Stack Overflow"
-  icon = "fa fa-stack-overflow fa-2x"
-  weight = 3
-  url = "https://stackoverflow.com/users/20122903/fcolomer"
+  name = "Google Cloud"
+  icon = "fa fa-google fa-2x"
+  weight = 4
+  url = "https://www.cloudskillsboost.google/public_profiles/f42b5706-3620-40cd-86b0-8772d949879d"
 [[params.social]]
   name = "Telegram"
   icon = "fa fa-telegram fa-2x"
   weight = 4
   url = "https://t.me/fcolomer"
-[[params.social]]
-  name = "Google Cloud"
-  icon = "fa fa-google fa-2x"
-  weight = 4
-  url = "https://www.cloudskillsboost.google/public_profiles/f42b5706-3620-40cd-86b0-8772d949879d"
 
 
 # Menu links
