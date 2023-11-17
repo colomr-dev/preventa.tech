@@ -55,7 +55,7 @@ style = "github-dark"
   name = "Google Cloud"
   icon = "fa fa-google fa-2x"
   weight = 4
-  url = "https://bit.ly/g-skills"
+  url = "https://bit.ly/CloudSkillsBoost"
 [[params.social]]
   name = "Telegram"
   icon = "fa fa-telegram fa-2x"
