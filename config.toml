@@ -37,6 +37,8 @@ style = "github-dark"
 [taxonomies]
   category = "categories"
   series = "series"
+  content_path = "content/posts/"
+  # permalinks = "/blog/:slug"
   tag = "tags"
   author = "authors"
 
