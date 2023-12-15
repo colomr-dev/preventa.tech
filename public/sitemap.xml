@@ -23,16 +23,13 @@
     <loc>http://preventa.tech/tags/infraestructura/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://preventa.tech/categories/negocio/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://preventa.tech/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://preventa.tech/tags/</loc>
+    <loc>http://preventa.tech/categories/rollos-viejos/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://preventa.tech/categories/tecnologia/</loc>
+    <loc>http://preventa.tech/tags/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://preventa.tech/categories/development/</loc>
@@ -52,8 +49,8 @@
   </url><url>
     <loc>http://preventa.tech/authors/</loc>
   </url><url>
-    <loc>http://preventa.tech/content/</loc>
+    <loc>http://preventa.tech/collections/</loc>
   </url><url>
-    <loc>http://preventa.tech/series/</loc>
+    <loc>http://preventa.tech/content/</loc>
   </url>
 </urlset>
