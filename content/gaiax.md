@@ -4,8 +4,7 @@ date: "2022-11-08"
 slug: "gaiax"
 url: "blog/gaiax"
 categories: 
-  - "negocio"
-  - "tecnologia"
+  - "rollos-viejos"
 tags: 
   - "big-tech"
   - "cloud"

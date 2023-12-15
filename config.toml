@@ -36,10 +36,10 @@ style = "github-dark"
 
 [taxonomies]
   category = "categories"
-  series = "series"
   content_path = "content/"
   tag = "tags"
   author = "authors"
+  collection = "collections"
 
 # Social links
 [[params.social]]
