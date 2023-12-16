@@ -36,7 +36,7 @@ style = "github-dark"
 
 [taxonomies]
   category = "categories"
-  content_path = "content/"
+  contentDir = "content"
   tag = "tags"
   author = "authors"
   collection = "collections"
